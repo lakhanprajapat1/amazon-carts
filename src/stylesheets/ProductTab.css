@@ -1,0 +1,7 @@
+.product-section{
+    padding: 5vh 5vw;
+    height: auto;
+    width: 100vw;
+    display: flex;
+    gap: 20px;
+}
