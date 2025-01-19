@@ -16,4 +16,4 @@ export default function Product({title ,src ,idx }){
             <Price oldPrice={<s>{oldPrice[idx]}</s>} newPrice={newPrice[idx]}/>
         </div>
     )
-}
+}k
