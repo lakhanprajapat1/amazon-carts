@@ -5,6 +5,7 @@ import Product from './product'
 const ProductTab = () => {
   return (
     <>
+    <h1>Blockbuster Deals | Shop Now</h1>
       <div className='product-section' >
         <Product 
         title="Logitech Mouse" 

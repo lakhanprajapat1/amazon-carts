@@ -1,10 +1,25 @@
 .product{
-    height: 350px;
+    height: auto;
     width: 300px;
-    border: 1px solid #fff;
+    border: 1px solid #606060b3;
+    padding: 10px;
+    border-radius: 10px;
 }
 .product p{
     padding-top: 10px;
     padding-left: 10px;
     font-size: 20px;
+}
+.add-cart{
+    width: 90%;
+    padding: 10px ;
+    margin-left: 5%;
+    background-color: #FFCE12;
+    border: none;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: 500;
+}
+.add-cart:hover{
+    background-color:#ffd012b6 ;
 }
